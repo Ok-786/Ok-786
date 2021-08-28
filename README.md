@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ok-786
+- 👋 Hi, I’m Muhammad Osama
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on evey platform i can
