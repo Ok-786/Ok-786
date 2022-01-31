@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Muhammad Osama
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on evey platform i can
+- 🌱 I've learned React & Nodejs
+- 🧓 I'm currently improving on my skills
+- 💞️ I’m Machine learning & AI enthusiastic 
 - 📫 How to reach me osamakiyani6123@gmail.com
 
 <!---
